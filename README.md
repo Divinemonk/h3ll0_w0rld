@@ -2,7 +2,7 @@
 
 ## Hey , let's print "hello world" !!
 
-### * (Python)[https://en.wikipedia.org/wiki/Python_(programming_language)]
+### * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 ```
 print("Hello World!")
 ```
@@ -10,7 +10,7 @@ print("Hello World!")
 
 ---
 
-### * (Java)[https://en.wikipedia.org/wiki/Java]
+### * [Java](https://en.wikipedia.org/wiki/Java)
 ```
 class HelloWorld
 {
@@ -24,7 +24,7 @@ class HelloWorld
 
 ---
 
-### * (JavaScript)[https://en.wikipedia.org/wiki/JavaScript]
+### * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 ```
 alert("Hello World!");
 ```
@@ -32,7 +32,7 @@ alert("Hello World!");
 
 ---
 
-### * (C)[https://en.wikipedia.org/wiki/C]
+### * [C](https://en.wikipedia.org/wiki/C)
 ```
 #include <stdio.h>
 
@@ -46,7 +46,7 @@ int main()
 
 ---
 
-### * (C++)[https://en.wikipedia.org/wiki/C++]
+### * [C++](https://en.wikipedia.org/wiki/C++)
 ```
 #include <iostream>
 
@@ -60,7 +60,7 @@ int main()
 
 ---
 
-### * (C#)[https://en.wikipedia.org/wiki/C_Sharp_(programming_language)]
+### * [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 ```
 using System; 
 
@@ -80,7 +80,7 @@ namespace HelloWorldApp
 
 ---
 
-### * (Bash)[https://en.wikipedia.org/wiki/Bash_(Unix_shell)]
+### * [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 ```
 #!/bin/bash
 
@@ -90,7 +90,7 @@ echo "Hello World!"
 
 ---
 
-### * (Batch File)[https://en.wikipedia.org/wiki/Batch_file]
+### * [Batch File](https://en.wikipedia.org/wiki/Batch_file)
 ```
 echo Hello World
 pause
@@ -99,7 +99,7 @@ pause
 
 ---
 
-### * (HTML)[https://en.wikipedia.org/wiki/HTML]
+### * [HTML](https://en.wikipedia.org/wiki/HTML)
 ```
 <!DOCTYPE html>
 <html>
@@ -116,7 +116,7 @@ pause
 
 ---
 
-### * (CSS)[https://en.wikipedia.org/wiki/CSS]
+### * [CSS](https://en.wikipedia.org/wiki/CSS)
 ```
 <style>
 body:before{
@@ -128,7 +128,7 @@ content: "Hello Word!";
 
 ---
 
-### * ()[]
+### * []()
 ```
 
 ```

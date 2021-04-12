@@ -1,6 +1,6 @@
 # h3ll0_w0rld
 
-## Hey , let's print         "hello world" in        multiple programming languages !!
+## Hey , let's print        "hello world" in       multiple programming languages !!
 
 ### * Python 
 ```

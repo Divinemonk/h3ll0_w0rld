@@ -7,7 +7,7 @@
 print("hello world")
 ```
 > helloworld.py
-
+***
 ### * Java
 ```
 class HelloWorld
@@ -19,9 +19,10 @@ class HelloWorld
 }
 ```
 > helloworld.java
-
+---
 ### * JavaScript
 ```
 alert("Hello, World!");
 ```
 > helloworld.js
+___

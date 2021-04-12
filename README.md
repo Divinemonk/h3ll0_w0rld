@@ -92,7 +92,7 @@ echo "Hello World!"
 
 ### * [Batch File](https://en.wikipedia.org/wiki/Batch_file)
 ```
-echo Hello World
+echo Hello World!
 pause
 ```
 > helloworld.bat
@@ -128,8 +128,76 @@ content: "Hello Word!";
 
 ---
 
-### * []()
+### * [PHP](https://en.wikipedia.org/wiki/PHP)
 ```
+<?php
+  echo "Hello World!";
+?>
+```
+> helloworld.php
 
+---
+
+### * [Ruby](https://en.wikipedia.org/wiki/Ruby)
 ```
-> helloworld.
+puts "Hello World!"
+```
+> helloworld.rb
+
+---
+
+### * [SQL](https://en.wikipedia.org/wiki/SQL)
+```
+BEGIN
+dbms_output.put_line (‘Hello World!');
+END;
+/
+```
+> helloworld.sql
+
+---
+
+### * [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
+```
+print("Hello, World!")
+```
+> helloworld.swift
+
+---
+
+### * [R](https://en.wikipedia.org/wiki/R_(programming_language))
+```
+print("Hello World!")
+```
+> helloworld.r
+
+---
+
+### * [GO](https://en.wikipedia.org/wiki/Go_(programming_language))
+```
+package main
+
+import "fmt"
+
+func main() 
+{
+    fmt.Println("hello world")
+}
+```
+> helloworld.go
+
+---
+
+### * [Perl](https://en.wikipedia.org/wiki/Perl)
+```
+#!/usr/bin/perl
+  
+use strict;
+use warnings;
+
+print("Hello World\n");
+```
+> helloworld.pl
+
+
+

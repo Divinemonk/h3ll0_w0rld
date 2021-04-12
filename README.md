@@ -2,7 +2,7 @@
 
 ## Hey , let's print "hello world" !!
 
-### * Python 
+### * (Python)[https://en.wikipedia.org/wiki/Python_(programming_language)]
 ```
 print("Hello World!")
 ```
@@ -10,7 +10,7 @@ print("Hello World!")
 
 ---
 
-### * Java
+### * (Java)[https://en.wikipedia.org/wiki/Java]
 ```
 class HelloWorld
 {
@@ -24,7 +24,7 @@ class HelloWorld
 
 ---
 
-### * JavaScript
+### * (JavaScript)[https://en.wikipedia.org/wiki/JavaScript]
 ```
 alert("Hello World!");
 ```
@@ -32,7 +32,7 @@ alert("Hello World!");
 
 ---
 
-### * C
+### * (C)[https://en.wikipedia.org/wiki/C]
 ```
 #include <stdio.h>
 
@@ -46,7 +46,7 @@ int main()
 
 ---
 
-### * C++
+### * (C++)[https://en.wikipedia.org/wiki/C++]
 ```
 #include <iostream>
 
@@ -60,7 +60,7 @@ int main()
 
 ---
 
-### * C#
+### * (C#)[https://en.wikipedia.org/wiki/C_Sharp_(programming_language)]
 ```
 using System; 
 
@@ -77,3 +77,59 @@ namespace HelloWorldApp
 } 
 ```
 > helloworld.cs
+
+---
+
+### * (Bash)[https://en.wikipedia.org/wiki/Bash_(Unix_shell)]
+```
+#!/bin/bash
+
+echo "Hello World!"
+```
+> helloworld.sh
+
+---
+
+### * (Batch File)[https://en.wikipedia.org/wiki/Batch_file]
+```
+echo Hello World
+pause
+```
+> helloworld.bat
+
+---
+
+### * (HTML)[https://en.wikipedia.org/wiki/HTML]
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello World!</title>
+    </head>
+    <body>
+        <p>Hello World!</p>
+    </body>
+</html>
+
+```
+> helloworld.html
+
+---
+
+### * (CSS)[https://en.wikipedia.org/wiki/CSS]
+```
+<style>
+body:before{
+content: "Hello Word!";
+}
+</style>
+```
+> helloworld.css
+
+---
+
+### * ()[]
+```
+
+```
+> helloworld.

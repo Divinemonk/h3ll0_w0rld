@@ -1,8 +1,8 @@
 # h3ll0_w0rld
 
-### Hey , let's print ' hello world ' !
+## Hey , let's print ' hello world ' !
 
-* Python 
+### * Python 
 ```
 print("hello world")
 ```

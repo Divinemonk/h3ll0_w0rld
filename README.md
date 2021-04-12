@@ -1,6 +1,8 @@
 # h3ll0_w0rld
 
-## Hey , let's print "hello world" in multiple languages !
+## Hey , let's print 
+"hello world" in 
+multiple languages !!
 
 ### * Python 
 ```
@@ -21,3 +23,7 @@ class HelloWorld
 > helloworld.java
 
 ### * JavaScript
+```
+alert("Hello, World!");
+```
+> helloworld.js

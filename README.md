@@ -3,7 +3,6 @@
 ## Hey , let's print "Hello World!" !!
 
 ### * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
-768 × 768
 ```
 print("Hello World!")
 ```

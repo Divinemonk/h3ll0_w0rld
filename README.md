@@ -4,7 +4,7 @@
 
 ### * Python 
 ```
-print("hello world")
+print("Hello World!")
 ```
 > helloworld.py
 
@@ -16,7 +16,7 @@ class HelloWorld
 {
   public static void main(String[] args) 
   {
-    System.out.println("Hello, World!"); 
+    System.out.println("Hello World!"); 
   }
 }
 ```
@@ -26,7 +26,7 @@ class HelloWorld
 
 ### * JavaScript
 ```
-alert("Hello, World!");
+alert("Hello World!");
 ```
 > helloworld.js
 
@@ -38,7 +38,7 @@ alert("Hello, World!");
 
 int main() 
 {
-  printf("Hello, World!");
+  printf("Hello World!");
   return 0;
 }
 ```

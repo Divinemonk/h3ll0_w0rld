@@ -1,6 +1,6 @@
 # h3ll0_w0rld
 
-## Hey , let's print "hello world" !!
+## Hey , let's print "Hello World!" !!
 
 ### * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 ```

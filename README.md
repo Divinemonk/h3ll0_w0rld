@@ -7,7 +7,9 @@
 print("hello world")
 ```
 > helloworld.py
-<hr/>
+
+---
+
 ### * Java
 ```
 class HelloWorld
@@ -19,10 +21,30 @@ class HelloWorld
 }
 ```
 > helloworld.java
+
 ---
+
 ### * JavaScript
 ```
 alert("Hello, World!");
 ```
 > helloworld.js
-___
+
+---
+
+### * C
+```
+\#include <stdio.h>
+int main() 
+{
+  printf("Hello, World!");
+  return 0;
+}
+```
+
+---
+
+### * 
+```
+
+```

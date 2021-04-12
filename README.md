@@ -7,7 +7,7 @@
 print("hello world")
 ```
 > helloworld.py
-***
+<hr/>
 ### * Java
 ```
 class HelloWorld

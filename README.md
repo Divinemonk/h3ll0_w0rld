@@ -34,17 +34,46 @@ alert("Hello, World!");
 
 ### * C
 ```
-\#include <stdio.h>
+#include <stdio.h>
+
 int main() 
 {
   printf("Hello, World!");
   return 0;
 }
 ```
+> helloworld.c
 
 ---
 
-### * 
+### * C++
 ```
+#include <iostream>
 
+int main() 
+{
+  std::cout << "Hello World!";
+  return 0;
+}
 ```
+> helloworld.c
+
+---
+
+### * C#
+```
+using System; 
+
+namespace HelloWorldApp 
+{ 
+  class Geeks 
+  {
+    static void Main(string[] args) 
+    {  
+      Console.WriteLine("Hello World!");  
+      Console.ReadKey(); 
+    } 
+  } 
+} 
+```
+> helloworld.cs
